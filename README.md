@@ -33,10 +33,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-<img align="left" alt="Tkinter" width="26px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/107473725/original/28dd6164a53b5c84af8f2dc2f8ab39a9b185e342/create-a-gui-with-your-python-script-using-tkinter.png"/>
-<img align="left" alt="python" width="26px" src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png"/>
-<img align="left" alt="php" width="26px" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2012/09/php-logo-300x210.jpeg"/>
-<img align="left" alt="java Server Pages" width="26px" src="https://www.tc-web.it/wp-content/uploads/2019/12/JSP-logo-02.jpg"/>
+<img align="left" alt="Tkinter" width="26px" src="https://static.javatpoint.com/python/images/tkinter-tutorial.png"/>
+<img align="left" alt="python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-14-569257.png"/>
+<img align="left" alt="php" width="26px" src="https://www.shareicon.net/data/256x256/2015/10/06/112719_development_512x512.png"/>
+<img align="left" alt="java Server Pages" width="26px" src="https://www.shareicon.net/data/256x256/2015/10/24/661304_interface_512x512.png"/>
 
 <br />
 <br />
