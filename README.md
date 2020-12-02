@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, Thinker.
 
 - 📗 Currently Studying MCA at SRM University (KTR Campus)
-- 🌟 I’m currently working on [ResourceBin (A Project For Students)][website]!
+- 🌟 I’m currently working on [ResourceBin (A Project For Students)][website]! & [awesome-list](https://github.com/sunilkumarvalmiki/dev-Resources)
 - 📘 I’m currently learning Flutter & React
 - 🔥 2020 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies : Reading Books / Drawing 
