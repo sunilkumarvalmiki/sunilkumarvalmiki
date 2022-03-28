@@ -3,9 +3,8 @@
 [![Website](https://img.shields.io/website?label=https://hardcore-jackson-b4d749.netlify.app/&style=for-the-badge&url=https://hardcore-jackson-b4d749.netlify.app/)](https://hardcore-jackson-b4d749.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SunilkumarValm1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/sunilkumarvalmiki&screen_name=SunilkumarValm1)
 
-## I'm a Student, Developer, Thinker.
+## I'm a Python Developer.
 
-- 📗 Currently Studying MCA at SRM University (KTR Campus)
 - 🌟 I’m currently working on [ResourceBin (A Project For Students)][website]! & [awesome-list](https://github.com/sunilkumarvalmiki/dev-Resources)
 - 📘 I’m currently learning Flutter & React
 - 🔥 2020 Goals: Contribute more to Open Source projects
