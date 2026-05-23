@@ -1,9 +1,12 @@
 # Sunil Kumar G
 
+<!-- AUTO:HEADER:START -->
 <p align="center">
   <strong>Python Automation Engineer | Test Automation Engineer | OpenSource Enthusiast & Contributor</strong><br>
-  Bengaluru, India | 6+ years across QA, Salesforce Testing & Development Domains
+  Bengaluru, Karnataka, India | 6y 6m experience since Nov 2019 across Server, Telecom, Internet, Entertainment, and Industrial Automation domains<br>
+  Last company: ABB (Relieved May 2026) | Open to Hiring: Yes (Actively Looking)
 </p>
+<!-- AUTO:HEADER:END -->
 
 <p align="center">
   <a href="mailto:sunilg6080@gmail.com">
@@ -21,20 +24,21 @@
 
 ## Professional Summary
 
-Test Automation Engineer with 6+ years of experience across SDLC and STLC, specializing in Python-based automation, Selenium, Robot Framework, Pytest, REST API validation, regression testing, functional testing, and production-support workflows. I have worked across telecom, enterprise server management, and industrial edge gateway domains, building automation that improves release confidence, reduces manual effort, and helps teams identify failures earlier.
-
-My work includes UI automation, API automation, test data preparation, defect triage, Linux and Windows validation, Docker-based workflows, MQTT and SSH-based system testing, Salesforce ecosystem support, and documentation for user and developer teams. I am comfortable working with developers, QA teams, product owners, support engineers, and business stakeholders in Agile/Scrum environments.
-
-I am now focused on combining strong QA fundamentals with modern automation tooling, including Playwright, AI-assisted testing, LLM workflows, RAG, prompt engineering, MCPs, and agent-based developer tools.
+<!-- AUTO:SUMMARY:START -->
+Test Automation Engineer focused on Python-based quality engineering with hands-on experience across server, telecom, internet, entertainment, and industrial automation domains. I work across UI/API automation, regression strategy, Linux/Windows validation, CI workflows, and cross-functional delivery. I am actively upskilling in Playwright, AI-assisted testing, LLM workflows, RAG, prompt engineering, MCP, and agentic developer tooling to deliver faster and more reliable releases.
+<!-- AUTO:SUMMARY:END -->
 
 ## Current Focus
 
-- **Open to hiring:** Most recently worked at ABB, Bengaluru as a Test Automation Engineer, and I am currently looking for new roles in QA Automation, Python Automation, Test Automation, and AI-assisted QA.
-- **Job search focus:** Open to opportunities where I can contribute to automation framework development, API testing, UI automation, production support, and quality engineering.
-- **Currently learning:** Playwright and practical AI automation workflows for testing, productivity, and developer tooling.
-- **Current open-source focus:** Contributing to [aaif-goose/goose](https://github.com/aaif-goose/goose), an open-source AI agent project, with merged work across desktop, provider, CLI, and session-state behavior.
-- **Planned certifications:** AccelQ, ISTQB, AI for QA, test automation, and other quality-engineering focused credentials.
-- Outside work, I enjoy reading, researching technology and tools, and watching or reading horror-genre stories.
+<!-- AUTO:FOCUS:START -->
+- **Open to hiring:** Last worked at ABB (Test Automation Engineer, Bengaluru) and actively seeking new roles.
+- **Job search focus:** Python/Test Automation, QA Engineering, AI-assisted QA, and product quality roles across Bengaluru, remote India, and hybrid India.
+- **Currently learning:** Playwright, advanced API automation patterns, LLM+RAG practical workflows, and MCP-enabled agent tooling.
+- **Current open-source focus:** Continuing contributions to `aaif-goose/goose` and evaluating testing/automation OSS projects for future contributions.
+- **Planned certifications:** ISTQB, AI-for-QA, and role-relevant Python/test automation credentials.
+- **Outside work/hobbies:** Reading, research, learning by experimentation, and networking with people and communities.
+- **Last auto-refresh date:** 2026-05-23
+<!-- AUTO:FOCUS:END -->
 
 ## Core Skills
 
