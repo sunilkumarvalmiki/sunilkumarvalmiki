@@ -1,0 +1,330 @@
+{
+  "name": "Sunil Kumar G",
+  "display_name": "Sunil Kumar",
+  "username": "sunilkumarvalmiki",
+  "career_start": "2019-11-01",
+  "role_headline": "Python Automation Engineer | Test Automation Engineer | Open-source Enthusiast & Contributor",
+  "current_or_last_company": "ABB",
+  "employment_note": "Last worked at ABB and relieved in May 2026",
+  "open_to_hiring": true,
+  "location": "Bengaluru, Karnataka, India",
+  "last_role": {
+    "company": "ABB",
+    "title": "Test Automation Engineer",
+    "location": "Bengaluru, Karnataka, India",
+    "domain": "industrial automation",
+    "product": "edge gateway and automation products"
+  },
+  "domains": [
+    "server",
+    "telecom",
+    "internet",
+    "entertainment",
+    "industrial automation"
+  ],
+  "contacts": [
+    {
+      "label": "Email",
+      "url": "mailto:sunilg6080@gmail.com",
+      "badge_label": "Email",
+      "badge_message": "sunilg6080@gmail.com",
+      "color": "BB001B",
+      "logo": "gmail"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/sunil-kumar-9912291202/",
+      "badge_label": "LinkedIn",
+      "badge_message": "Sunil Kumar",
+      "color": "0A66C2",
+      "logo": "linkedin"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/sunilkumarvalmiki",
+      "badge_label": "GitHub",
+      "badge_message": "sunilkumarvalmiki",
+      "color": "181717",
+      "logo": "github"
+    },
+    {
+      "label": "Portfolio",
+      "url": "https://hardcore-jackson-b4d749.netlify.app/",
+      "badge_label": "Portfolio",
+      "badge_message": "Live site",
+      "color": "00AD9F",
+      "logo": "netlify"
+    }
+  ],
+  "professional_summary": {
+    "skills_sentence": "I specialize in Python-based automation, Selenium, Robot Framework, Pytest, REST API validation, functional testing, regression testing, test data preparation, defect triage, production-support workflows, Linux and Windows validation, Docker-based workflows, MQTT, SSH, and Salesforce ecosystem support.",
+    "team_sentence": "I work comfortably with developers, QA teams, product owners, support engineers, business stakeholders, and Agile/Scrum delivery teams.",
+    "learning_sentence": "I am currently upgrading my career toward Playwright, AI-assisted testing, LLM workflows, RAG, prompt engineering, MCPs, AI agents, and practical automation tooling that connects QA, developer productivity, and open-source engineering."
+  },
+  "job_search": {
+    "target_roles": [
+      "QA Automation Engineer",
+      "Python Automation Engineer",
+      "Test Automation Engineer",
+      "SDET",
+      "AI-assisted QA Automation Engineer"
+    ],
+    "target_domains": [
+      "industrial automation",
+      "AI tooling",
+      "developer tools",
+      "SaaS",
+      "enterprise platforms",
+      "server and telecom platforms",
+      "internet and entertainment products"
+    ],
+    "preferred_locations": [
+      "Bengaluru",
+      "India remote",
+      "hybrid roles in Karnataka",
+      "global remote roles"
+    ],
+    "expertise": [
+      "automation framework development",
+      "API testing",
+      "UI automation",
+      "quality engineering",
+      "production support",
+      "test strategy",
+      "AI-assisted testing"
+    ]
+  },
+  "currently_learning": [
+    "Playwright",
+    "AI-assisted testing",
+    "LLM workflows",
+    "RAG",
+    "prompt engineering",
+    "MCPs",
+    "AI agents",
+    "full-stack automation tooling"
+  ],
+  "planned_certifications": [
+    "AccelQ",
+    "ISTQB",
+    "AI for QA",
+    "test automation",
+    "quality engineering focused credentials"
+  ],
+  "outside_work": [
+    "reading",
+    "research",
+    "networking with people and communities",
+    "learning new tools",
+    "experiments"
+  ],
+  "skills": [
+    {
+      "category": "Automation and Testing",
+      "items": [
+        ["Python", "3776AB", "python", "white"],
+        ["Robot Framework", "000000", "robotframework", "white"],
+        ["Selenium", "43B02A", "selenium", "white"],
+        ["Pytest", "0A9EDC", "pytest", "white"],
+        ["Playwright", "2EAD33", "playwright", "white"],
+        ["AccelQ", "0052CC", "", "white"],
+        ["REST API", "005571", "", "white"],
+        ["Manual Testing", "59636E", "", "white"],
+        ["Regression Testing", "59636E", "", "white"],
+        ["Functional Testing", "59636E", "", "white"],
+        ["Test Data Management", "0E7490", "", "white"]
+      ]
+    },
+    {
+      "category": "Development, Web, and Data",
+      "items": [
+        ["HTML5", "E34F26", "html5", "white"],
+        ["CSS3", "1572B6", "css3", "white"],
+        ["JavaScript", "F7DF1E", "javascript", "black"],
+        ["MySQL", "4479A1", "mysql", "white"],
+        ["JSON", "000000", "json", "white"],
+        ["Paramiko", "2B5B84", "", "white"]
+      ]
+    },
+    {
+      "category": "Platforms, Tools, and Delivery",
+      "items": [
+        ["GitHub", "181717", "github", "white"],
+        ["Azure DevOps", "0078D7", "azuredevops", "white"],
+        ["Jenkins", "D24939", "jenkins", "white"],
+        ["Jira", "0052CC", "jira", "white"],
+        ["Docker", "2496ED", "docker", "white"],
+        ["Linux", "FCC624", "linux", "black"],
+        ["Windows", "0078D4", "windows", "white"],
+        ["MQTT", "660066", "", "white"],
+        ["SSH", "4D4D4D", "", "white"],
+        ["Yocto Linux", "8BC34A", "", "white"]
+      ]
+    },
+    {
+      "category": "Enterprise QA and Business Platforms",
+      "items": [
+        ["Salesforce", "00A1E0", "salesforce", "white"],
+        ["Salesforce Testing", "0176D3", "", "white"],
+        ["Salesforce Development", "0176D3", "", "white"],
+        ["Salesforce OmniStudio", "0176D3", "", "white"],
+        ["Salesforce Order Management", "0176D3", "", "white"],
+        ["Salesforce Production Support", "0176D3", "", "white"],
+        ["Sandbox Management", "4B5563", "", "white"],
+        ["Splunk", "000000", "splunk", "white"],
+        ["ServiceNow", "81B5A1", "servicenow", "white"],
+        ["Zuora Billing", "1646FF", "", "white"]
+      ]
+    },
+    {
+      "category": "AI and Modern Automation",
+      "items": [
+        ["AI", "1F6FEB", "", "white"],
+        ["LLMs", "412991", "", "white"],
+        ["RAG", "0E7490", "", "white"],
+        ["Prompt Engineering", "7C3AED", "", "white"],
+        ["MCP", "24292F", "", "white"],
+        ["AI Agents", "111827", "", "white"]
+      ]
+    },
+    {
+      "category": "Domain Exposure",
+      "items": [
+        ["Server", "374151", "", "white"],
+        ["Telecom", "0E7490", "", "white"],
+        ["Internet", "2563EB", "", "white"],
+        ["Entertainment", "C026D3", "", "white"],
+        ["Industrial Automation", "166534", "", "white"]
+      ]
+    }
+  ],
+  "open_source": {
+    "max_items": 12,
+    "exclude_repos": [
+      "Abhijith14/Abhijith14",
+      "sunilkumarvalmiki/sunilkumarvalmiki",
+      "sunilkumarvalmiki/Open-Jarvis"
+    ],
+    "include_own_repos": [],
+    "project_notes": {
+      "aaif-goose/goose": "Open-source AI agent tooling across desktop, providers, session state, CLI behavior, and developer workflows.",
+      "tinyhumansai/openhuman": "Open-source personal AI and local-first agent tooling."
+    },
+    "fallback_contributions": [
+      {
+        "repo": "tinyhumansai/openhuman",
+        "number": 2447,
+        "title": "fix(memory): localize background LLM prompts",
+        "url": "https://github.com/tinyhumansai/openhuman/pull/2447",
+        "closed_at": "2026-05-23T00:56:21Z"
+      },
+      {
+        "repo": "tinyhumansai/openhuman",
+        "number": 2426,
+        "title": "docs: clarify managed backend defaults",
+        "url": "https://github.com/tinyhumansai/openhuman/pull/2426",
+        "closed_at": "2026-05-23T00:52:11Z"
+      },
+      {
+        "repo": "tinyhumansai/openhuman",
+        "number": 2372,
+        "title": "fix(inference): validate OpenRouter API keys",
+        "url": "https://github.com/tinyhumansai/openhuman/pull/2372",
+        "closed_at": "2026-05-20T21:37:20Z"
+      },
+      {
+        "repo": "aaif-goose/goose",
+        "number": 8464,
+        "title": "Fix frontend extension session state and tool routes",
+        "url": "https://github.com/aaif-goose/goose/pull/8464",
+        "closed_at": "2026-05-12T19:17:57Z"
+      },
+      {
+        "repo": "aaif-goose/goose",
+        "number": 8700,
+        "title": "fix(providers): handle missing delta field in streaming chunks",
+        "url": "https://github.com/aaif-goose/goose/pull/8700",
+        "closed_at": "2026-04-22T09:20:35Z"
+      },
+      {
+        "repo": "aaif-goose/goose",
+        "number": 8679,
+        "title": "fix(ui): correct grammar in apps view description (#8668)",
+        "url": "https://github.com/aaif-goose/goose/pull/8679",
+        "closed_at": "2026-04-21T13:48:45Z"
+      },
+      {
+        "repo": "aaif-goose/goose",
+        "number": 8431,
+        "title": "fix: chat loading-state model placeholder",
+        "url": "https://github.com/aaif-goose/goose/pull/8431",
+        "closed_at": "2026-04-16T08:49:02Z"
+      },
+      {
+        "repo": "aaif-goose/goose",
+        "number": 8424,
+        "title": "fix(desktop): start recipe deeplink sessions from the recipe prompt",
+        "url": "https://github.com/aaif-goose/goose/pull/8424",
+        "closed_at": "2026-04-10T06:23:19Z"
+      }
+    ],
+    "future_focus": [
+      "Continue contributing to AI agent tooling, especially aaif-goose/goose and openhuman.",
+      "Look for focused issues in QA automation, Playwright, browser-extension tooling, developer productivity, and local-first AI products.",
+      "Prioritize small, well-tested fixes that improve reliability, documentation, onboarding, and real user workflows."
+    ]
+  },
+  "github_activity": {
+    "max_repos": 8,
+    "repo_notes": {
+      "sunilkumarvalmiki/sunilkumarvalmiki": "Professional GitHub profile and daily profile automation.",
+      "sunilkumarvalmiki/llm_wiki": "Fork and contribution lane for a document-to-knowledge-base desktop app.",
+      "sunilkumarvalmiki/openhuman": "Fork and contribution lane for personal AI tooling.",
+      "sunilkumarvalmiki/goose": "Fork and contribution lane for an extensible open-source AI agent.",
+      "sunilkumarvalmiki/openclaw-router": "Rust AI routing experiment.",
+      "sunilkumarvalmiki/Open-Jarvis": "Personal AI desktop app experiment.",
+      "sunilkumarvalmiki/research": "Research notes and planning workspace.",
+      "sunilkumarvalmiki/autonomous-research-agent": "Python research-agent experiment."
+    },
+    "fallback_repos": [
+      {
+        "full_name": "sunilkumarvalmiki/sunilkumarvalmiki",
+        "html_url": "https://github.com/sunilkumarvalmiki/sunilkumarvalmiki",
+        "description": "GitHub Profile repository",
+        "language": "",
+        "pushed_at": "2026-05-23T16:26:46Z",
+        "fork": false
+      },
+      {
+        "full_name": "sunilkumarvalmiki/llm_wiki",
+        "html_url": "https://github.com/sunilkumarvalmiki/llm_wiki",
+        "description": "Cross-platform desktop knowledge-base application.",
+        "language": "",
+        "pushed_at": "2026-05-22T20:05:57Z",
+        "fork": true
+      },
+      {
+        "full_name": "sunilkumarvalmiki/openhuman",
+        "html_url": "https://github.com/sunilkumarvalmiki/openhuman",
+        "description": "Personal AI super intelligence.",
+        "language": "",
+        "pushed_at": "2026-05-21T18:03:44Z",
+        "fork": true
+      },
+      {
+        "full_name": "sunilkumarvalmiki/goose",
+        "html_url": "https://github.com/sunilkumarvalmiki/goose",
+        "description": "Open-source extensible AI agent.",
+        "language": "",
+        "pushed_at": "2026-05-20T17:16:30Z",
+        "fork": true
+      }
+    ]
+  },
+  "github_profile": {
+    "name": "Sunil Kumar",
+    "company": "ABB",
+    "blog": "https://hardcore-jackson-b4d749.netlify.app/",
+    "bio_template": "Python Automation Engineer | {experience_short} QA/API automation | Ex-ABB | Open to hiring | OSS contributor | Learning AI agents and LLMs"
+  }
+}

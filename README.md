@@ -1,8 +1,10 @@
 # Sunil Kumar G
 
 <p align="center">
-  <strong>Python Automation Engineer | Test Automation Engineer | OpenSource Enthusiast & Contributor</strong><br>
-  Bengaluru, India | 6+ years across QA, Salesforce Testing & Development Domains
+  <strong>Python Automation Engineer | Test Automation Engineer | Open-source Enthusiast & Contributor</strong><br>
+  Last worked at ABB and relieved in May 2026 | Available for hiring | 6 years 6 months experience<br>
+  Software engineering exposure across server, telecom, internet, entertainment, industrial automation<br>
+  Working from Bengaluru, Karnataka, India | I enjoy networking, communities, research, learning, and experiments.
 </p>
 
 <p align="center">
@@ -12,29 +14,38 @@
   <a href="https://www.linkedin.com/in/sunil-kumar-9912291202/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/sunilkumarvalmiki">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-sunilkumarvalmiki-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://hardcore-jackson-b4d749.netlify.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live%20site-00AD9F?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20Hiring-Yes-2E8B57?style=for-the-badge">
-  <img alt="Location" src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-59636E?style=for-the-badge">
+  <img alt="Open to Hiring" src="https://img.shields.io/badge/Open%20to%20Hiring-Yes%20-%20actively%20looking-2E8B57?style=for-the-badge">
+  <img alt="Last Company" src="https://img.shields.io/badge/Last%20Company-ABB-5B21B6?style=for-the-badge">
+  <img alt="Experience" src="https://img.shields.io/badge/Experience-6%20years%206%20months-0E7490?style=for-the-badge">
+  <img alt="Location" src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-59636E?style=for-the-badge">
 </p>
 
 ## Professional Summary
 
-Test Automation Engineer with 6+ years of experience across SDLC and STLC, specializing in Python-based automation, Selenium, Robot Framework, Pytest, REST API validation, regression testing, functional testing, and production-support workflows. I have worked across telecom, enterprise server management, and industrial edge gateway domains, building automation that improves release confidence, reduces manual effort, and helps teams identify failures earlier.
+Test Automation Engineer with 6 years 6 months of experience across SDLC and STLC, with hands-on work across server, telecom, internet, entertainment, industrial automation domains. I specialize in Python-based automation, Selenium, Robot Framework, Pytest, REST API validation, functional testing, regression testing, test data preparation, defect triage, production-support workflows, Linux and Windows validation, Docker-based workflows, MQTT, SSH, and Salesforce ecosystem support.
 
-My work includes UI automation, API automation, test data preparation, defect triage, Linux and Windows validation, Docker-based workflows, MQTT and SSH-based system testing, Salesforce ecosystem support, and documentation for user and developer teams. I am comfortable working with developers, QA teams, product owners, support engineers, and business stakeholders in Agile/Scrum environments.
+I work comfortably with developers, QA teams, product owners, support engineers, business stakeholders, and Agile/Scrum delivery teams.
 
-I am now focused on combining strong QA fundamentals with modern automation tooling, including Playwright, AI-assisted testing, LLM workflows, RAG, prompt engineering, MCPs, and agent-based developer tools.
+I am currently upgrading my career toward Playwright, AI-assisted testing, LLM workflows, RAG, prompt engineering, MCPs, AI agents, and practical automation tooling that connects QA, developer productivity, and open-source engineering.
 
 ## Current Focus
 
-- **Open to hiring:** Most recently worked at ABB, Bengaluru as a Test Automation Engineer, and I am currently looking for new roles in QA Automation, Python Automation, Test Automation, and AI-assisted QA.
-- **Job search focus:** Open to opportunities where I can contribute to automation framework development, API testing, UI automation, production support, and quality engineering.
-- **Currently learning:** Playwright and practical AI automation workflows for testing, productivity, and developer tooling.
-- **Current open-source focus:** Contributing to [aaif-goose/goose](https://github.com/aaif-goose/goose), an open-source AI agent project, with merged work across desktop, provider, CLI, and session-state behavior.
-- **Planned certifications:** AccelQ, ISTQB, AI for QA, test automation, and other quality-engineering focused credentials.
-- Outside work, I enjoy reading, researching technology and tools, and watching or reading horror-genre stories.
+- **Open to hiring:** Available for hiring and actively looking for new roles. Most recently worked at ABB as a Test Automation Engineer in Bengaluru, Karnataka, India, focused on industrial automation for edge gateway and automation products.
+- **Job search focus:** Targeting QA Automation Engineer, Python Automation Engineer, Test Automation Engineer, SDET, AI-assisted QA Automation Engineer roles where I can apply automation framework development, API testing, UI automation, quality engineering, production support, test strategy, AI-assisted testing. Preferred locations: Bengaluru, India remote, hybrid roles in Karnataka, global remote roles.
+- **Domain focus:** Interested in industrial automation, AI tooling, developer tools, SaaS, enterprise platforms, server and telecom platforms, internet and entertainment products.
+- **Currently learning:** Playwright, AI-assisted testing, LLM workflows, RAG, prompt engineering, MCPs, AI agents, full-stack automation tooling.
+- **Current open-source focus:** Contributing to AI agent and developer-tooling projects, with recent merged work in aaif-goose/goose and openhuman.
+- **Planned certifications:** AccelQ, ISTQB, AI for QA, test automation, quality engineering focused credentials.
+- **Outside work:** reading, research, networking with people and communities, learning new tools, experiments.
 
 ## Core Skills
 
@@ -96,23 +107,64 @@ I am now focused on combining strong QA fundamentals with modern automation tool
 ![MCP](https://img.shields.io/badge/MCP-24292F?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge)
 
+### Domain Exposure
+
+![Server](https://img.shields.io/badge/Server-374151?style=for-the-badge)
+![Telecom](https://img.shields.io/badge/Telecom-0E7490?style=for-the-badge)
+![Internet](https://img.shields.io/badge/Internet-2563EB?style=for-the-badge)
+![Entertainment](https://img.shields.io/badge/Entertainment-C026D3?style=for-the-badge)
+![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-166534?style=for-the-badge)
+
 ## Open Source Contributions
 
-Verified public merged pull requests authored by [sunilkumarvalmiki](https://github.com/sunilkumarvalmiki).
+Verified public merged pull requests authored by [sunilkumarvalmiki](https://github.com/sunilkumarvalmiki), refreshed daily with GitHub Actions.
 
-| Project | Contribution Area | Merged Work |
-| --- | --- | --- |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) <br> ![Stars](https://img.shields.io/github/stars/aaif-goose/goose?style=flat&label=stars) ![Forks](https://img.shields.io/github/forks/aaif-goose/goose?style=flat&label=forks) | Open-source AI agent tooling across desktop, providers, session state, and CLI behavior. | [#8424](https://github.com/aaif-goose/goose/pull/8424) - fixed recipe deeplink session startup from recipe prompt<br>[#8431](https://github.com/aaif-goose/goose/pull/8431) - fixed chat loading-state model placeholder<br>[#8464](https://github.com/aaif-goose/goose/pull/8464) - fixed frontend extension session state and tool routes<br>[#8679](https://github.com/aaif-goose/goose/pull/8679) - corrected apps view description grammar<br>[#8700](https://github.com/aaif-goose/goose/pull/8700) - handled missing provider streaming delta field |
+| Merged | Project | Contribution | Area |
+| --- | --- | --- | --- |
+| 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2447](https://github.com/tinyhumansai/openhuman/pull/2447) - fix(memory): localize background LLM prompts | Open-source personal AI and local-first agent tooling. |
+| 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2426](https://github.com/tinyhumansai/openhuman/pull/2426) - docs: clarify managed backend defaults | Open-source personal AI and local-first agent tooling. |
+| 2026-05-21 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2372](https://github.com/tinyhumansai/openhuman/pull/2372) - fix(inference): validate OpenRouter API keys | Open-source personal AI and local-first agent tooling. |
+| 2026-05-13 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | [#8464](https://github.com/aaif-goose/goose/pull/8464) - Fix frontend extension session state and tool routes | Open-source AI agent tooling across desktop, providers, session state, CLI behavior, and developer workflows. |
+| 2026-04-22 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | [#8700](https://github.com/aaif-goose/goose/pull/8700) - fix(providers): handle missing delta field in streaming chunks | Open-source AI agent tooling across desktop, providers, session state, CLI behavior, and developer workflows. |
+| 2026-04-21 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | [#8679](https://github.com/aaif-goose/goose/pull/8679) - fix(ui): correct grammar in apps view description (#8668) | Open-source AI agent tooling across desktop, providers, session state, CLI behavior, and developer workflows. |
+| 2026-04-16 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | [#8431](https://github.com/aaif-goose/goose/pull/8431) - fix: chat loading-state model placeholder | Open-source AI agent tooling across desktop, providers, session state, CLI behavior, and developer workflows. |
+| 2026-04-10 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | [#8424](https://github.com/aaif-goose/goose/pull/8424) - fix(desktop): start recipe deeplink sessions from the recipe prompt | Open-source AI agent tooling across desktop, providers, session state, CLI behavior, and developer workflows. |
+
+### Looking To Contribute Next
+
+- Continue contributing to AI agent tooling, especially aaif-goose/goose and openhuman.
+- Look for focused issues in QA automation, Playwright, browser-extension tooling, developer productivity, and local-first AI products.
+- Prioritize small, well-tested fixes that improve reliability, documentation, onboarding, and real user workflows.
 
 ## What I Bring To Teams
 
-- Build maintainable automation suites for UI, API, regression, and functional testing.
-- Convert business requirements into test scenarios, test cases, test scripts, and clear technical documentation.
-- Debug failures across web applications, APIs, Linux environments, network-connected systems, and automation infrastructure.
-- Collaborate in Agile/Scrum teams with developers, QA engineers, product owners, and business stakeholders.
-- Keep learning modern AI automation workflows including LLMs, RAG, prompt engineering, MCPs, and agent-based tooling.
+- Maintainable automation suites for UI, API, regression, functional, and production-support testing.
+- Strong QA engineering across test planning, test scripts, test data, defect triage, documentation, and release confidence.
+- Practical debugging across web applications, APIs, Linux, Windows, Docker, MQTT, SSH, Salesforce, and connected systems.
+- Experience across server, telecom, internet, entertainment, and industrial automation environments.
+- A collaborative approach with developers, QA engineers, product owners, support engineers, business stakeholders, and communities.
+- Open-source contribution discipline: small reproducible fixes, focused validation, clear documentation, and steady follow-through.
 
 ## GitHub Activity
+
+Daily activity snapshot generated on 2026-05-23 from public GitHub repository data.
+
+| Repository | Latest Push | Language | Scope | Notes |
+| --- | --- | --- | --- | --- |
+| [sunilkumarvalmiki/sunilkumarvalmiki](https://github.com/sunilkumarvalmiki/sunilkumarvalmiki) | 2026-05-23 | Mixed | Owned | Professional GitHub profile and daily profile automation. |
+| [sunilkumarvalmiki/llm_wiki](https://github.com/sunilkumarvalmiki/llm_wiki) | 2026-05-23 | Mixed | Fork / contribution lane | Fork and contribution lane for a document-to-knowledge-base desktop app. |
+| [sunilkumarvalmiki/openhuman](https://github.com/sunilkumarvalmiki/openhuman) | 2026-05-21 | Mixed | Fork / contribution lane | Fork and contribution lane for personal AI tooling. |
+| [sunilkumarvalmiki/goose](https://github.com/sunilkumarvalmiki/goose) | 2026-05-20 | Mixed | Fork / contribution lane | Fork and contribution lane for an extensible open-source AI agent. |
+| [sunilkumarvalmiki/openclaw-router](https://github.com/sunilkumarvalmiki/openclaw-router) | 2026-03-19 | Rust | Owned | Rust AI routing experiment. |
+| [sunilkumarvalmiki/Open-Jarvis](https://github.com/sunilkumarvalmiki/Open-Jarvis) | 2026-02-24 | Rust | Owned | Personal AI desktop app experiment. |
+| [sunilkumarvalmiki/research](https://github.com/sunilkumarvalmiki/research) | 2025-12-22 | Mixed | Owned | Research notes and planning workspace. |
+| [sunilkumarvalmiki/autonomous-research-agent](https://github.com/sunilkumarvalmiki/autonomous-research-agent) | 2025-12-05 | Python | Owned | Python research-agent experiment. |
+
+## Stats
+
+<p align="center">
+  <img alt="Profile visits" src="https://komarev.com/ghpvc/?username=sunilkumarvalmiki&label=PROFILE%20VISITS&color=0e75b6&style=for-the-badge">
+</p>
 
 <p align="center">
   <img alt="Sunil Kumar GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilkumarvalmiki&theme=github_dark">
@@ -131,3 +183,8 @@ Verified public merged pull requests authored by [sunilkumarvalmiki](https://git
 <p align="center">
   <img alt="Sunil Kumar GitHub streak" src="https://streak-stats.demolab.com?user=sunilkumarvalmiki&theme=tokyonight&hide_border=true">
 </p>
+
+<!--
+This README is generated by scripts/update_profile.py.
+Edit data/profile.json first, then run: python scripts/update_profile.py
+-->
