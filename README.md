@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Python Automation Engineer | Test Automation Engineer | Open-source Enthusiast & Contributor</strong><br>
-  Last worked at ABB and relieved in May 2026 | Available for hiring | 6 years 6 months experience<br>
+  Was working at ABB till May 2026 | Available for hiring | 6 years 6 months experience<br>
   Software engineering exposure across server, telecom, internet, entertainment, industrial automation<br>
   Working from Bengaluru, Karnataka, India | I enjoy networking, communities, research, learning, and experiments.
 </p>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Open to Hiring" src="https://img.shields.io/badge/Open%20to%20Hiring-Yes%20-%20actively%20looking-2E8B57?style=for-the-badge">
+  <img alt="Open to Hiring" src="https://img.shields.io/badge/Open%20to%20Hiring-Yes-2E8B57?style=for-the-badge">
   <img alt="Last Company" src="https://img.shields.io/badge/Last%20Company-ABB-5B21B6?style=for-the-badge">
   <img alt="Experience" src="https://img.shields.io/badge/Experience-6%20years%206%20months-0E7490?style=for-the-badge">
   <img alt="Location" src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-59636E?style=for-the-badge">
