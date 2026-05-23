@@ -12,13 +12,9 @@
   <a href="https://www.linkedin.com/in/sunil-kumar-9912291202/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sunil%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/sunilkumarvalmiki">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-sunilkumarvalmiki-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
 
 <p align="center">
-  <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=sunilkumarvalmiki&label=PROFILE%20VISITS&color=0e75b6&style=for-the-badge">
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20Hiring-Yes-2E8B57?style=for-the-badge">
   <img alt="Location" src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-59636E?style=for-the-badge">
 </p>
