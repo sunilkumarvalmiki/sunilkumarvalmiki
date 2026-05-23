@@ -1,8 +1,8 @@
 # Sunil Kumar G
 
 <p align="center">
-  <strong>Python Automation Engineer | Test Automation Engineer | API and AI Automation</strong><br>
-  Bengaluru, India | 6+ years across SDLC, STLC, UI automation, API automation, and test engineering
+  <strong>Python Automation Engineer | Test Automation Engineer | OpenSource Enthusiast & Contributor</strong><br>
+  Bengaluru, India | 6+ years across QA, Salesforce Testing & Development Domains
 </p>
 
 <p align="center">
