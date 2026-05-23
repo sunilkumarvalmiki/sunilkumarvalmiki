@@ -151,7 +151,7 @@ Daily activity snapshot generated on 2026-05-23 from public GitHub repository da
 
 | Repository | Latest Push | Language | Scope | Notes |
 | --- | --- | --- | --- | --- |
-| [sunilkumarvalmiki/sunilkumarvalmiki](https://github.com/sunilkumarvalmiki/sunilkumarvalmiki) | 2026-05-23 | Mixed | Owned | Professional GitHub profile and daily profile automation. |
+| [sunilkumarvalmiki/sunilkumarvalmiki](https://github.com/sunilkumarvalmiki/sunilkumarvalmiki) | 2026-05-23 | Python | Owned | Professional GitHub profile and daily profile automation. |
 | [sunilkumarvalmiki/llm_wiki](https://github.com/sunilkumarvalmiki/llm_wiki) | 2026-05-23 | Mixed | Fork / contribution lane | Fork and contribution lane for a document-to-knowledge-base desktop app. |
 | [sunilkumarvalmiki/openhuman](https://github.com/sunilkumarvalmiki/openhuman) | 2026-05-21 | Mixed | Fork / contribution lane | Fork and contribution lane for personal AI tooling. |
 | [sunilkumarvalmiki/goose](https://github.com/sunilkumarvalmiki/goose) | 2026-05-20 | Mixed | Fork / contribution lane | Fork and contribution lane for an extensible open-source AI agent. |
