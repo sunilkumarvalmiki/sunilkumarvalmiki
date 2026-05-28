@@ -151,18 +151,18 @@ Verified public merged pull requests authored by [sunilkumarvalmiki](https://git
 
 ## GitHub Activity
 
-Daily activity snapshot generated on 2026-05-27 from public GitHub repository data.
+Daily activity snapshot generated on 2026-05-28 from public GitHub repository data.
 
 | Repository | Latest Push | Language | Scope | Notes |
 | --- | --- | --- | --- | --- |
-| [sunilkumarvalmiki/openhuman](https://github.com/sunilkumarvalmiki/openhuman) | 2026-05-26 | Mixed | Fork / contribution lane | Fork and contribution lane for personal AI tooling. |
-| [sunilkumarvalmiki/sunilkumarvalmiki](https://github.com/sunilkumarvalmiki/sunilkumarvalmiki) | 2026-05-26 | Python | Owned | Professional GitHub profile and daily profile automation. |
+| [sunilkumarvalmiki/hermes-webui](https://github.com/sunilkumarvalmiki/hermes-webui) | 2026-05-27 | Mixed | Fork / contribution lane | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [sunilkumarvalmiki/openhuman](https://github.com/sunilkumarvalmiki/openhuman) | 2026-05-27 | Mixed | Fork / contribution lane | Fork and contribution lane for personal AI tooling. |
+| [sunilkumarvalmiki/sunilkumarvalmiki](https://github.com/sunilkumarvalmiki/sunilkumarvalmiki) | 2026-05-27 | Python | Owned | Professional GitHub profile and daily profile automation. |
 | [sunilkumarvalmiki/llm_wiki](https://github.com/sunilkumarvalmiki/llm_wiki) | 2026-05-23 | Mixed | Fork / contribution lane | Fork and contribution lane for a document-to-knowledge-base desktop app. |
 | [sunilkumarvalmiki/goose](https://github.com/sunilkumarvalmiki/goose) | 2026-05-20 | Mixed | Fork / contribution lane | Fork and contribution lane for an extensible open-source AI agent. |
 | [sunilkumarvalmiki/openclaw-router](https://github.com/sunilkumarvalmiki/openclaw-router) | 2026-03-19 | Rust | Owned | Rust AI routing experiment. |
 | [sunilkumarvalmiki/Open-Jarvis](https://github.com/sunilkumarvalmiki/Open-Jarvis) | 2026-02-24 | Rust | Owned | Personal AI desktop app experiment. |
 | [sunilkumarvalmiki/research](https://github.com/sunilkumarvalmiki/research) | 2025-12-22 | Mixed | Owned | Research notes and planning workspace. |
-| [sunilkumarvalmiki/autonomous-research-agent](https://github.com/sunilkumarvalmiki/autonomous-research-agent) | 2025-12-05 | Python | Owned | Python research-agent experiment. |
 
 ## Stats
 
