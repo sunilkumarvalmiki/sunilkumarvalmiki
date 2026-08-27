@@ -101,8 +101,6 @@ My work spans backend engineering, test automation, API quality, CI/CD, observab
 ### Cloud
 
 - AWS: EC2, S3, RDS, IAM
-- Azure (optional)
-- GCP (optional)
 
 ### AI and LLM
 
@@ -111,12 +109,6 @@ My work spans backend engineering, test automation, API quality, CI/CD, observab
 - Gemini API
 - Vector databases: FAISS, ChromaDB, Pinecone
 - Retrieval-augmented generation (RAG)
-
-## Selected Public Work
-
-- [Autonomous Research Agent](https://github.com/sunilkumarvalmiki/autonomous-research-agent) - Python research-agent project combining local/open-source language models, RAG, multi-step reasoning, evaluation scripts, Docker support, and tests.
-- [Sunil Kumar Portfolio](https://github.com/sunilkumarvalmiki/sunilkumar-portfolio) - Static personal portfolio website built with HTML, CSS/SCSS, JavaScript, and frontend assets.
-- [Awesome Python Snippets](https://github.com/sunilkumarvalmiki/awesome-python-snippets) - Practical Python scripting notes and examples for automation and learning.
 
 ## Open-Source Contributor and Bug Hunter
 
