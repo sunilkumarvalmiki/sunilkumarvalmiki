@@ -129,12 +129,6 @@ My work spans backend engineering, test automation, API quality, CI/CD, observab
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-## Selected Public Work
-
-- [Autonomous Research Agent](https://github.com/sunilkumarvalmiki/autonomous-research-agent) - Python research-agent project combining local/open-source language models, RAG, multi-step reasoning, evaluation scripts, Docker support, and tests.
-- [Sunil Kumar Portfolio](https://github.com/sunilkumarvalmiki/sunilkumar-portfolio) - Static personal portfolio website built with HTML, CSS/SCSS, JavaScript, and frontend assets.
-- [Awesome Python Snippets](https://github.com/sunilkumarvalmiki/awesome-python-snippets) - Practical Python scripting notes and examples for automation and learning.
-
 ## Open-Source Contributor and Bug Hunter
 
 I contribute to open-source AI, developer-tooling, and knowledge-base projects by reproducing issues, fixing bugs, improving user experience, strengthening CI workflows, and clarifying documentation.
