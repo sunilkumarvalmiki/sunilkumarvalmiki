@@ -2,7 +2,7 @@
 
 > Python FastAPI Developer | Open-source contributor | Bug hunter
 
-I am a Python FastAPI Developer with 6+ years of experience designing, developing, testing, and deploying enterprise-grade backend systems. I build asynchronous REST APIs, microservices, data-processing workflows, and reliable automation for industrial, telecom, and enterprise infrastructure products.
+I am a Python Developer with 6+ years of experience designing, developing, testing, and deploying enterprise-grade backend systems. I build asynchronous REST APIs, microservices, data-processing workflows, and reliable automation for industrial, telecom, and enterprise infrastructure products.
 
 My work spans backend engineering, test automation, API quality, CI/CD, observability, cloud deployment, and open-source collaboration. I enjoy finding reproducible bugs, improving developer and user workflows, and contributing focused fixes that make software more reliable.
 
