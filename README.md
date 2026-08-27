@@ -158,29 +158,26 @@ Selected merged pull requests authored by [sunilkumarvalmiki](https://github.com
 
 ## GitHub Activity and Widgets
 
+These cards are powered by the working GitHub Profile Summary Cards service.
+
 ### Open-Source Contribution Overview
 
 <p align="center">
   <img alt="Open-source contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilkumarvalmiki&theme=github_dark">
 </p>
 
-### GitHub Statistics and Programming Languages
+### GitHub Statistics
 
 <p align="center">
-  <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=sunilkumarvalmiki&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-  <img height="180" alt="Programming language distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarvalmiki&layout=compact&theme=github_dark&hide_border=true">
+  <img height="180" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunilkumarvalmiki&theme=github_dark">
+  <img height="180" alt="Productive time overview" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunilkumarvalmiki&theme=github_dark&utcOffset=5.5">
 </p>
 
-### Contribution Streak
+### Programming Languages
 
 <p align="center">
-  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=sunilkumarvalmiki&theme=github-dark-blue&hide_border=true">
-</p>
-
-### Contribution Activity
-
-<p align="center">
-  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkumarvalmiki&theme=github-compact&hide_border=true&area=true">
+  <img height="180" alt="Repositories by programming language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunilkumarvalmiki&theme=github_dark">
+  <img height="180" alt="Most committed programming languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunilkumarvalmiki&theme=github_dark">
 </p>
 
 ## Education
