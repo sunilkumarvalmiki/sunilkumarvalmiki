@@ -1,6 +1,34 @@
 # Sunil Kumar G
 
-## Python FastAPI Developer
+> Python FastAPI Developer | Open-source contributor | Bug hunter
+
+I am a Python FastAPI Developer with 6+ years of experience designing, developing, testing, and deploying enterprise-grade backend systems. I build asynchronous REST APIs, microservices, data-processing workflows, and reliable automation for industrial, telecom, and enterprise infrastructure products.
+
+My work spans backend engineering, test automation, API quality, CI/CD, observability, cloud deployment, and open-source collaboration. I enjoy finding reproducible bugs, improving developer and user workflows, and contributing focused fixes that make software more reliable.
+
+## Professional Experience
+
+- **ABB - Senior Software Engineer | Jun 2025 - Present**  
+  Industrial edge-to-cloud monitoring and predictive-maintenance systems. Built backend services, REST APIs, automated test frameworks, messaging pipelines, CI/CD validation, and service-level observability.
+
+- **LUMEN - Software Development Consultant | Mar 2022 - Jun 2025**  
+  Telecom order provisioning and service activation across Internet, Voice, Wi-Fi, and Cable TV services. Developed asynchronous FastAPI microservices, secure integrations, background jobs, and high-volume transactional workflows.
+
+- **HPE - Software Engineer | Nov 2019 - Feb 2022**  
+  Centralized enterprise server management. Built Python services, REST APIs, remote server-operation automation, Linux shell execution workflows, log-parsing services, and unit/integration tests.
+
+## Professional Achievements
+
+- Reduced telecom order-provisioning turnaround time at LUMEN through FastAPI microservices automation, Celery, RabbitMQ/Kafka messaging, and multi-system integration.
+- Improved industrial equipment uptime at ABB by enabling real-time predictive-maintenance data pipelines with RabbitMQ/Kafka streaming.
+- Increased IT team productivity at HPE by automating remote server operations and log analysis for enterprise infrastructure.
+- Designed and maintained Python-based automated test frameworks for real-time industrial data-acquisition pipelines over Modbus TCP/IP.
+- Built backend services with FastAPI, SQLAlchemy, and Alembic to process, validate, and route edge-collected data for monitoring workflows.
+- Implemented JWT/OAuth2 authentication, CORS policies, HTTPS enforcement, and API rate limiting across microservices.
+- Containerized services with Docker and Docker Compose, served them through Uvicorn/Gunicorn behind Nginx, and deployed solutions to AWS.
+- Built CI/CD validation pipelines with GitHub Actions and Jenkins, adding logging, Prometheus/Grafana monitoring, and OpenTelemetry tracing.
+- Developed remote server controls for power operations, reboot, firmware upgrades, OS deployment, and secure Linux shell automation at HPE.
+- Consistently delivered production-ready, well-tested Python code with Pytest while collaborating with Product, QA, and DevOps teams in Agile Scrum environments.
 
 ## FastAPI Developer Skills
 
@@ -36,7 +64,7 @@
 - Kafka
 - Celery for background jobs
 
-### Testing Skills
+### Testing and Quality Engineering
 
 - Pytest
 - Postman
@@ -84,14 +112,15 @@
 - Vector databases: FAISS, ChromaDB, Pinecone
 - Retrieval-augmented generation (RAG)
 
-## Key Achievements
+## Selected Public Work
 
-- Reduced telecom order-provisioning turnaround time at LUMEN through FastAPI microservices automation, Celery, RabbitMQ/Kafka messaging, and multi-system integration.
-- Improved industrial equipment uptime at ABB by enabling real-time predictive-maintenance data pipelines with RabbitMQ/Kafka streaming.
-- Increased IT team productivity at HPE by automating remote server operations and log analysis for enterprise infrastructure.
-- Consistently delivered production-ready, well-tested Python code with Pytest across Agile Scrum teams at ABB, LUMEN, and HPE.
+- [Autonomous Research Agent](https://github.com/sunilkumarvalmiki/autonomous-research-agent) - Python research-agent project combining local/open-source language models, RAG, multi-step reasoning, evaluation scripts, Docker support, and tests.
+- [Sunil Kumar Portfolio](https://github.com/sunilkumarvalmiki/sunilkumar-portfolio) - Static personal portfolio website built with HTML, CSS/SCSS, JavaScript, and frontend assets.
+- [Awesome Python Snippets](https://github.com/sunilkumarvalmiki/awesome-python-snippets) - Practical Python scripting notes and examples for automation and learning.
 
-## Open-Source Contributions
+## Open-Source Contributor and Bug Hunter
+
+I contribute to open-source AI, developer-tooling, and knowledge-base projects by reproducing issues, fixing bugs, improving user experience, strengthening CI workflows, and clarifying documentation.
 
 Selected merged pull requests authored by [sunilkumarvalmiki](https://github.com/sunilkumarvalmiki).
 
@@ -109,3 +138,12 @@ Selected merged pull requests authored by [sunilkumarvalmiki](https://github.com
 | 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | [#238](https://github.com/nashsu/llm_wiki/pull/238) - Fix CLI ingest completion handling |
 | 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2447](https://github.com/tinyhumansai/openhuman/pull/2447) - fix(memory): localize background LLM prompts |
 | 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2426](https://github.com/tinyhumansai/openhuman/pull/2426) - docs: clarify managed backend defaults |
+
+## Education
+
+- Bachelor of Computer Application, SV University, 2019
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sunil-kumar-9912291202/)
+- [Portfolio](https://hardcore-jackson-b4d749.netlify.app/)
