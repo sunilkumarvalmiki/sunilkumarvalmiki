@@ -34,81 +34,106 @@ My work spans backend engineering, test automation, API quality, CI/CD, observab
 
 ### Programming, Backend, and APIs
 
-- Python
-- FastAPI
-- REST APIs
-- Asynchronous programming: asyncio, async/await
-- HTTP clients: Requests, HTTPX
-- Documentation: Swagger/OpenAPI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Async Await](https://img.shields.io/badge/Async%2FAwait-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2B5B84?style=for-the-badge)
+![HTTPX](https://img.shields.io/badge/HTTPX-2B5B84?style=for-the-badge)
+![Swagger OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Data and Persistence
 
-- PostgreSQL, MySQL
-- SQLAlchemy
-- Alembic
-- Pydantic
-- Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Authentication, Security, and Architecture
 
-- JWT
-- OAuth2
-- CORS
-- HTTPS
-- Rate limiting
-- Microservices
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge)
+![CORS](https://img.shields.io/badge/CORS-59636E?style=for-the-badge)
+![HTTPS](https://img.shields.io/badge/HTTPS-2E8B57?style=for-the-badge)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-8B5CF6?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0E7490?style=for-the-badge)
 
 ### Messaging and Background Jobs
 
-- RabbitMQ
-- Kafka
-- Celery for background jobs
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
 
 ### Testing and Quality Engineering
 
-- Pytest
-- Postman
-- REST API testing
-- Robot Framework
-- Selenium
-- Playwright
-- AccelQ
-- Manual testing
-- Functional testing
-- Regression testing
-- Test data management
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API Testing](https://img.shields.io/badge/REST%20API%20Testing-005571?style=for-the-badge)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![AccelQ](https://img.shields.io/badge/AccelQ-0052CC?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-59636E?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-59636E?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-59636E?style=for-the-badge)
+![Test Data Management](https://img.shields.io/badge/Test%20Data%20Management-0E7490?style=for-the-badge)
 
 ### Delivery and Operations
 
-- Git
-- GitHub
-- Docker
-- Docker Compose
-- Uvicorn
-- Gunicorn
-- Nginx
-- GitHub Actions
-- Jenkins
-- Azure DevOps
-- Linux
-- Shell scripting
-- python-dotenv
-- Python logging
-- Prometheus
-- Grafana
-- OpenTelemetry
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![python dotenv](https://img.shields.io/badge/python--dotenv-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python Logging](https://img.shields.io/badge/Python%20Logging-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ### Cloud
 
-- AWS: EC2, S3, RDS, IAM
+![AWS](https://img.shields.io/badge/AWS%20EC2%20S3%20RDS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### AI and LLM
 
-- LangChain
-- OpenAI API
-- Gemini API
-- Vector databases: FAISS, ChromaDB, Pinecone
-- Retrieval-augmented generation (RAG)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0E7490?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+
+## Currently Learning
+
+### AI Tools
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0E7490?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+
+### Programming
+
+![Micro Frontends](https://img.shields.io/badge/Micro%20Frontends-1572B6?style=for-the-badge)
+
+### Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+## Selected Public Work
+
+- [Autonomous Research Agent](https://github.com/sunilkumarvalmiki/autonomous-research-agent) - Python research-agent project combining local/open-source language models, RAG, multi-step reasoning, evaluation scripts, Docker support, and tests.
+- [Sunil Kumar Portfolio](https://github.com/sunilkumarvalmiki/sunilkumar-portfolio) - Static personal portfolio website built with HTML, CSS/SCSS, JavaScript, and frontend assets.
+- [Awesome Python Snippets](https://github.com/sunilkumarvalmiki/awesome-python-snippets) - Practical Python scripting notes and examples for automation and learning.
 
 ## Open-Source Contributor and Bug Hunter
 
@@ -130,6 +155,33 @@ Selected merged pull requests authored by [sunilkumarvalmiki](https://github.com
 | 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | [#238](https://github.com/nashsu/llm_wiki/pull/238) - Fix CLI ingest completion handling |
 | 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2447](https://github.com/tinyhumansai/openhuman/pull/2447) - fix(memory): localize background LLM prompts |
 | 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2426](https://github.com/tinyhumansai/openhuman/pull/2426) - docs: clarify managed backend defaults |
+
+## GitHub Activity and Widgets
+
+### Open-Source Contribution Overview
+
+<p align="center">
+  <img alt="Open-source contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunilkumarvalmiki&theme=github_dark">
+</p>
+
+### GitHub Statistics and Programming Languages
+
+<p align="center">
+  <img height="180" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=sunilkumarvalmiki&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
+  <img height="180" alt="Programming language distribution" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarvalmiki&layout=compact&theme=github_dark&hide_border=true">
+</p>
+
+### Contribution Streak
+
+<p align="center">
+  <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=sunilkumarvalmiki&theme=github-dark-blue&hide_border=true">
+</p>
+
+### Contribution Activity
+
+<p align="center">
+  <img alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkumarvalmiki&theme=github-compact&hide_border=true&area=true">
+</p>
 
 ## Education
 
