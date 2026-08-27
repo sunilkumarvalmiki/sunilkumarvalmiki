@@ -106,6 +106,6 @@ Selected merged pull requests authored by [sunilkumarvalmiki](https://github.com
 | 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | [#241](https://github.com/nashsu/llm_wiki/pull/241) - Add retry-all control for failed ingest tasks |
 | 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | [#240](https://github.com/nashsu/llm_wiki/pull/240) - Process source watch startup changes |
 | 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | [#239](https://github.com/nashsu/llm_wiki/pull/239) - Fix nested source identity handling |
-| 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki/pull/238) | [#238](https://github.com/nashsu/llm_wiki/pull/238) - Fix CLI ingest completion handling |
+| 2026-05-24 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | [#238](https://github.com/nashsu/llm_wiki/pull/238) - Fix CLI ingest completion handling |
 | 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2447](https://github.com/tinyhumansai/openhuman/pull/2447) - fix(memory): localize background LLM prompts |
 | 2026-05-23 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | [#2426](https://github.com/tinyhumansai/openhuman/pull/2426) - docs: clarify managed backend defaults |
