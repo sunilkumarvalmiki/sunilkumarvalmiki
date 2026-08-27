@@ -1,6 +1,6 @@
 # Sunil Kumar G
 
-> Python FastAPI Developer | Open-source contributor | Bug hunter
+> Python Developer | Open-source contributor | Bug hunter | Tech Enthusiast & Geek
 
 I am a Python Developer with 6+ years of experience designing, developing, testing, and deploying enterprise-grade backend systems. I build asynchronous REST APIs, microservices, data-processing workflows, and reliable automation for industrial, telecom, and enterprise infrastructure products.
 
