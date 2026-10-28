@@ -21,13 +21,13 @@ My work spans backend engineering, test automation, API quality, CI/CD, observab
 
 - Reduced telecom order-provisioning turnaround time at LUMEN through FastAPI microservices automation, Celery, RabbitMQ/Kafka messaging, and multi-system integration.
 - Improved industrial equipment uptime at ABB by enabling real-time predictive-maintenance data pipelines with RabbitMQ/Kafka streaming.
-- Increased IT team productivity at HPE by automating remote server operations and log analysis for enterprise infrastructure.
+- Increased IT team productivity at KPMG by automating remote server operations and log analysis for enterprise infrastructure.
 - Designed and maintained Python-based automated test frameworks for real-time industrial data-acquisition pipelines over Modbus TCP/IP.
 - Built backend services with FastAPI, SQLAlchemy, and Alembic to process, validate, and route edge-collected data for monitoring workflows.
 - Implemented JWT/OAuth2 authentication, CORS policies, HTTPS enforcement, and API rate limiting across microservices.
 - Containerized services with Docker and Docker Compose, served them through Uvicorn/Gunicorn behind Nginx, and deployed solutions to AWS.
 - Built CI/CD validation pipelines with GitHub Actions and Jenkins, adding logging, Prometheus/Grafana monitoring, and OpenTelemetry tracing.
-- Developed remote server controls for power operations, reboot, firmware upgrades, OS deployment, and secure Linux shell automation at HPE.
+- Developed remote server controls for power operations, reboot, firmware upgrades, OS deployment, and secure Linux shell automation at KPMG.
 - Consistently delivered production-ready, well-tested Python code with Pytest while collaborating with Product, QA, and DevOps teams in Agile Scrum environments.
 
 ## FastAPI Developer Skills
