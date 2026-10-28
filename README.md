@@ -8,13 +8,13 @@ My work spans backend engineering, test automation, API quality, CI/CD, observab
 
 ## Professional Experience
 
-- **ABB - Senior Software Engineer | Jun 2025 - Present**  
+- **ABB - Python Developer - Gen AI | Jun 2025 - May 2026**  
   Industrial edge-to-cloud monitoring and predictive-maintenance systems. Built backend services, REST APIs, automated test frameworks, messaging pipelines, CI/CD validation, and service-level observability.
 
-- **LUMEN - Software Development Consultant | Mar 2022 - Jun 2025**  
+- **LUMEN - Senior Python Developer | Mar 2022 - Jun 2025**  
   Telecom order provisioning and service activation across Internet, Voice, Wi-Fi, and Cable TV services. Developed asynchronous FastAPI microservices, secure integrations, background jobs, and high-volume transactional workflows.
 
-- **HPE - Software Engineer | Nov 2019 - Feb 2022**  
+- **KPMG - Software Engineer - Python | Mar 2020 - Feb 2022**  
   Centralized enterprise server management. Built Python services, REST APIs, remote server-operation automation, Linux shell execution workflows, log-parsing services, and unit/integration tests.
 
 ## Professional Achievements
